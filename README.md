@@ -16,6 +16,8 @@ My biggest passion is **to innovate in area of "impossible" and help developers 
 
 * :paintbrush:  I **blog weekly** about PHP and how cool coding shortcuts - https://tomasvotruba.com
 * :rocket: I work on @rectorphp to help you forget about technical debt and upgrade from PHP 5.6 to PHP 8.1 in day :muscle:
+* :book: I wrote a book about Rector - [The Power of Automated Refactoring](https://leanpub.com/rector-the-power-of-automated-refactoring) together my childhood hero
+* :family: I believe in open sharing of knowledge, so I made https://friendsofphp.org to cover all World PHP meetups in next month
 * :bird:  I **tweet** about about ideas worth learning at https://twitter.com/votrubat
 * :hammer: I help couple projects ~10 hours/week to make their **code productive, joy to use and scale in quality**.
 
