@@ -2,14 +2,17 @@
 
 Nothing excites me more than good old legacy code. A code that can be improved light-years in a matter of few-days work. Not tedious and repetitive work. But with intelligent modern automated almost-futuristic tools.
 
-My biggest passion is **to innovate in the area of "impossible" and help developers to be happier** :heart: at their daily work. If you're happy, you enjoy your work and life more, don't you? :wink:
-
-
-----
+<br>
 
 > "If you really want to do something, you'll find a way.
 >
 > If you don't, you'll find an excuse."
+ 
+<br>
+
+My biggest passion is **to innovate in the area of "impossible" and help developers to be happier** :heart: at their daily work. 
+
+If you're happy, you enjoy your work and life more, don't you? :wink:
 
 <br>
 
