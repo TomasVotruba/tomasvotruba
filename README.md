@@ -18,13 +18,12 @@ If you're happy, you enjoy your work and life more, don't you? :wink:
 
 ## I Love to Share and Work
 
-* :paintbrush:  I **blog weekly** about PHP and cool coding shortcuts at [tomasvotruba.com](https://tomasvotruba.com)
 * :rocket: I work on [Rector](http://github.com/rectorphp/rector) to help you forget about technical debt and upgrade from PHP 5.6 to PHP 8.1 in a day :muscle:
+* :paintbrush:  I **blog weekly** about PHP and cool coding shortcuts at [tomasvotruba.com](https://tomasvotruba.com)
 * :book: I wrote a book about Rector - [The Power of Automated Refactoring](https://leanpub.com/rector-the-power-of-automated-refactoring) together with my childhood hero
-* :family: I believe in personal sharing of knowledge, so I made [friendsofphp.org](https://friendsofphp.org) to cover all World PHP meetups next month
 * ❤️ Do you **enjoy tasty fruits** of my work? Support me at [Github Sponsors](https://github.com/sponsors/TomasVotruba) 
 * :bird:  I **tweet** about ideas worth learning at [@votrubaT](https://twitter.com/votrubat)
-* :hammer: Currently, I help a couple of projects ~10 hours/week to make their **code productive, a joy to use, and scale in quality**.
+* :hammer: Currently, I help successful PHP projects to turn their legacy around to **modern, productive code, and fun project to work with**.
 
 <br>
 
