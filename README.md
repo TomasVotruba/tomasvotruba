@@ -15,8 +15,9 @@
 Full upgrade service, end to end:
 
 * **PHP 5.3 → 8.5** — version by version, your test suite green at every step
-* **Framework jumps** — Symfony 2 → 7, Laravel 5 → 12, Nette, Zend/Laminas
-* **Legacy → framework** — from no-framework or a homegrown one to something maintained
+* **Framework jumps** — Symfony 2 → 7, Laravel 5 → 12, CakePHP, Yii, Nette, Zend 1 → Laminas
+* **Custom frameworks** — the homegrown one only your team knows, moved to something maintained
+* **Legacy → framework** — from no-framework spaghetti to a structure you can hire for
 * **PHPUnit, Doctrine, and the rest of your `composer.json`** — the dependencies that block everything else
 * **Static analysis from zero** — PHPStan running in CI, at a level your team can hold
 
