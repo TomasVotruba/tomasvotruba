@@ -31,7 +31,7 @@ You keep shipping features while the upgrade runs. Your team learns the tooling,
 Instant upgrades of hundreds of thousands of lines are only possible with automation. So I build it:
 
 * 🚀 [**Rector**](https://github.com/rectorphp/rector) — the instant upgrade and refactoring tool for PHP
-* 🐹 [**Recongo**](https://github.com/TomasVotruba/recongo) — Rector-like automated refactoring, written in Go
+* 🐹 **Recongo** *(private, in the works)* — Rector-like automated refactoring, written in Go
 * 📏 [**lines**](https://github.com/TomasVotruba/lines) — measure project size and used PHP features, zero dependencies
 * 🔍 [**type-coverage**](https://github.com/TomasVotruba/type-coverage) — PHPStan extension to require minimal type coverage
 * 🧹 [**unused-public**](https://github.com/TomasVotruba/unused-public) and [**class-leak**](https://github.com/TomasVotruba/class-leak) — find the dead code before you migrate it
